@@ -1,0 +1,14 @@
+﻿<html>
+<head>
+<tittle><h1><center>My name is Mohamed Elkordy</tittle></h1></center>
+</head>
+<body>
+<center><h1>كلما ازدادت ثقافة المرء ازداد بؤسه</center></h1>
+<center><h1><font face="AR cena" color="red"> Don’t spend time beating on a wall, hoping to transform it into a door</center></h1>
+</body>
+</html>
+<html>
+<h1>الله اكبر :) </h1>
+</html>
+
+
